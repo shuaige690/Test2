@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.zking.zzcloudspringbootstarter.config.SmsConfig,com.zking.zzcloudspringbootstarter.config.weblogConfig
+
